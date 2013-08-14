@@ -16,9 +16,7 @@ USING_NS_CC_EXT;
 //<< game server address
 //#define GATE_HOST "114.113.202.141"
 //#define GATE_PORT 3088
-// 서버가 실행된 로컬주소나 실제 주소를 넣어준다..  192.168.0.6 or 124,43,335,30
-// 같은 로컬에서 실행할때만 127.0.0.1을 넣어준다. (주의)
-#define GATE_HOST "127.0.0.1"
+#define GATE_HOST "192.168.0.6"
 #define GATE_PORT 3014
 //>>
 
